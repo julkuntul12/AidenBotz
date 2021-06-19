@@ -25,7 +25,7 @@
  
 </details>
 
-### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗥𝗔𝗠𝗟𝗔𝗡 𝗜𝗗
+### 𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 DENIS PRASETIO
 
 ### WARNING
 MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
@@ -49,15 +49,15 @@ Siapin alat dan bahannya.
 Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings/Ramlan.json). Apikey Free Tinggal regist [`ZEKS API`](https://api.lolhuman.xyz/login).
 ```json
 {
-    "botName": "BABY BOT",
-    "ownerName": "RAMLAN ID",
-    "ownerNumbers": "62855xxxxxxxx",
+    "botName": "AIDEN BOT",
+    "ownerName": "DENIS PRASETIO",
+    "ownerNumbers": "62823xxxxxxxx",
     "ZeksApi": "apivinz",
     "botPrefix": "!",
     "GrupLimitz": "0",
     "autor": "MrR4M",
-    "peknem": "BABY-BOT",
-    "CeerTod": "*BABY BOTZ VERIFIED*"
+    "peknem": "AIDEN-BOT",
+    "CeerTod": "*VERIFIED BY AIDEN*"
 }
 
 ```
@@ -71,8 +71,8 @@ Buka nih [`Ramlan.json`](https://github.com/Ramlan404/babybot/edit/main/settings
 > pkg install git -y
 > pkg install bash -y
 > pkg install mc -y
-> git clone https://github.com/Ramlan404/babybot
-> cd babybot
+> git clone https://github.com/aidenbot2209/AidenBotz
+> cd AidenBotz
 > bash install.sh
 > npm start
 > SCAN DAH BRO MHEHE EZ KAN:V
@@ -87,9 +87,9 @@ Ket: Script ini gratis ye Jangan dijual_-
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/RAMLANID)
-* [`Instagram Admin`](https://instagram.com/iamramlan_)
-* [`WhatsApp Admin `](https://wa.me/+6285559240360)
+* [`Youtube Admin`](https://youtube.com/c/DENISPRASETIO)
+* [`Instagram Admin`](https://instagram.com/gen_gaming.id)
+* [`WhatsApp Admin `](https://wa.me/+6282319617604)
 * [`Group WhatsApp `](https://chat.whatsapp.com/DcSr2e5hLMd7PkufBVymgu)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
