@@ -1,5 +1,5 @@
 exports.wait = () => {
-	return`*「❗」WAIT KAK*`
+	return`*「❗」WAITZ KIMAK*`
 }
 
 exports.succes = () => {
@@ -27,7 +27,7 @@ exports.nsfwoff = () => {
 }
 
 exports.noregis = () => {
-	return`*「❗」BELUM VERIFIKASI「❗」*\n\nketik : @verify`
+	return`*「❗」BELUM VERIFIKASI「❗」*\n\nketik : @aiden`
 }
 
 exports.baned = () => {
@@ -50,7 +50,7 @@ exports.stikga = () => {
 }
 
 exports.linkga = () => {
-	return`*「❗」maaf linknya tidak valid kak*`
+	return`*「❗」LINK NYA YANG BENER BODOH*`
 }
 
 exports.groupo = () => {
@@ -58,11 +58,11 @@ exports.groupo = () => {
 }
 
 exports.ownerb = () => {
-	return`*「❗」OWNER BOT ONLY*`
+	return`*「❗」AIDEN ONLY*`
 }
 
 exports.ownerg = () => {
-	return`*「❗」OWNER GROUP ONLY*`
+	return`*「❗」AIDEN ONLY*`
 }
 
 exports.admin = () => {
@@ -70,7 +70,7 @@ exports.admin = () => {
 }
 
 exports.badmin = () => {
-	return`*「❗」BOT HARUS JADI ADMIN*`
+	return`*「❗」JADIKAN GW ADMIN DULU LAH*`
 }
 
 exports.bug = () => {
@@ -82,7 +82,7 @@ exports.wrongf = () => {
 }
 
 exports.clears = () => {
-	return`*Sukses bosku*`
+	return`*SIP BANGET UDAH SUKSES*`
 }
 
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel) => {
@@ -125,10 +125,10 @@ exports.uangkau = (pushname, sender, uangkau) => {
 
 exports.donasi = () => {
 return`*DONASI KAK*
-Pulsa : 0812-1444-1027
-Gopay : 0855-5924-0360
-Dana : 0855-5924-0360
-Saweria : https://saweria.co/ramlangans
+Pulsa : 082319617604
+Gopay : 082319617604
+Dana : 082319617604
+Qris : Hubungi si *${ownerName}*
 
 Donasi supaya bot terus update & Aktif`
 }
