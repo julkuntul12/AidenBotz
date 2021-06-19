@@ -1,5 +1,5 @@
 exports.wait = () => {
-	return`*「❗」WAITZ KIMAK*`
+	return`*「❗」DAGOAN SAKEDAP ANJG*`
 }
 
 exports.succes = () => {
@@ -27,7 +27,7 @@ exports.nsfwoff = () => {
 }
 
 exports.noregis = () => {
-	return`*「❗」BELUM VERIFIKASI「❗」*\n\nketik : @verify`
+	return`*「❗」VERIFIKASI HELA ATUH「❗」*\n\nketik : @verify`
 }
 
 exports.baned = () => {
@@ -42,7 +42,7 @@ Ketik : ${prefix}owner`
 }
 
 exports.rediregis = () => {
-	return`*Kamu sudah melakukan verify -_-*`
+	return`*NGEES VERIFIKASI SIA TEH GOBLOG-_-*`
 }
 
 exports.stikga = () => {
@@ -58,11 +58,11 @@ exports.groupo = () => {
 }
 
 exports.ownerb = () => {
-	return`*「❗」AIDEN ONLY*`
+	return`*「❗」JUL ONLY*`
 }
 
 exports.ownerg = () => {
-	return`*「❗」AIDEN ONLY*`
+	return`*「❗」JUL ONLY*`
 }
 
 exports.admin = () => {
@@ -70,7 +70,7 @@ exports.admin = () => {
 }
 
 exports.badmin = () => {
-	return`*「❗」JADIKAN GW ADMIN DULU LAH*`
+	return`*「❗」ADMINKEN HELA AING ANJG*`
 }
 
 exports.bug = () => {
@@ -82,7 +82,7 @@ exports.wrongf = () => {
 }
 
 exports.clears = () => {
-	return`*SUKSES BRO OLEH AIDEN*`
+	return`*SUKSES BRO OLEH JUL GNTENG*`
 }
 
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel) => {
@@ -137,8 +137,8 @@ exports.iklan = (botName, ownerNumbers, ownerName) => {
 return`🔰 -----[ 「 *IKLAN ${botName}* 」 ]----- 🔰
 ──────────────────────────────
 ◯ *DAFTAR SEWA & BUAT BOT :*
-◯ *SEWA : 25K/GRUP (BULAN)*
-◯ *BUAT : 100K (BISA JADI OWNER)*
+◯ *SEWA : 35K/GRUP (BULAN)*
+◯ *BUAT : 150K (BISA JADI OWNER)*
 ◯ *PEMBAYARAN BISA MELALUI :*
 ◯ *OVO, GOPAY, DANA, PULSA+10K*
 ──────────────────────────────
@@ -154,7 +154,7 @@ return`🔰 -----[ 「 *IKLAN ${botName}* 」 ]----- 🔰
 ──────────────────────────────
 ◯ *JIKA MINAT IKLAN DIATAS*
 ◯ *HARAP HUBUNGI NOMOR DIBAWAH :*
-◯ *wa.me/${ownerNumbers}*
+◯ *wa.me/${6283866834781}*
 ──────────────────────────────
 🔰 -----[「 *POWERED BY ${ownerName}* 」]----- 🔰`
 }
