@@ -27,7 +27,7 @@ exports.nsfwoff = () => {
 }
 
 exports.noregis = () => {
-	return`*「❗」BELUM VERIFIKASI「❗」*\n\nketik : @aiden`
+	return`*「❗」BELUM VERIFIKASI「❗」*\n\nketik : @verify`
 }
 
 exports.baned = () => {
@@ -82,7 +82,7 @@ exports.wrongf = () => {
 }
 
 exports.clears = () => {
-	return`*SIP BANGET UDAH SUKSES*`
+	return`*SUKSES BRO OLEH AIDEN*`
 }
 
 exports.levelup = (pushname, sender, getLevelingXp,  getLevel, getLevelingLevel) => {
