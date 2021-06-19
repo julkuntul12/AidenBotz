@@ -118,12 +118,12 @@ exports.uangkau = (pushname, sender, uangkau) => {
 ┃╭───────────────────
 ┃│➸ NAMA : ${pushname}
 ┃│➸ NOMOR : ${sender.split("@")[0]}
-┃│➸ UANG : ${uangkau}
+┃│➸ MONEY : ${uangkau}
 ┃╰───────────────────
 ┗━━━━━━━━━━━━━━━━━━━━┛`
 }
 
-exports.donasi = () => {
+exports.donasi = (ownerName) => {
 return`*DONASI KAK*
 Pulsa : 082319617604
 Gopay : 082319617604
